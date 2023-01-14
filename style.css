@@ -38,8 +38,8 @@ nav {
     background-image: url("./public/img/nyc-skyline-grayscale.jpg");
     position: static;
     display: block;
-    width: 100%;
-    height: 100%;
+    width: 100vw;
+    height: 100vh;
     text-align: center;
     box-sizing:border-box;
     background-color: black;

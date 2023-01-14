@@ -39,8 +39,9 @@ nav {
     position: static;
     display: block;
     width: 100%;
-    height: 400px;
+    height: 100%;
     text-align: center;
+    box-sizing:border-box;
 }
 
 .maintitle h1 {

@@ -24,16 +24,16 @@ nav {
 .navlist {
     list-style: none;
     position: absolute;
-    right: 25px;
+    right: 33px;
 }
 
 .navlist li {
     display: inline-block;
     position: relative;
     color: white;
-    padding-right: 25px;
+    padding-right: 33px;
     box-sizing: border-box;
-    font-weight: 400;
+    font-weight: 600;
     font-family: 'Julius Sans One', sans-serif;
 }
 

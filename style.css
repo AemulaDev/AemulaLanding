@@ -1,5 +1,5 @@
 nav {
-    background-color: #858585;
+    background-color: #585858;
     position: fixed;
     top: 0;
     left: 0;
@@ -9,6 +9,7 @@ nav {
     align-items: center;
     box-shadow: 0 2px 4px rgb(0 0 0 / 50%);
     z-index: 4;
+    opacity: 0.5;
 }
 
 .navtitle {

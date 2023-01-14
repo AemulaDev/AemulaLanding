@@ -1,0 +1,11 @@
+{
+  "name": "aemulalanding",
+  "version": "1.0.0",
+  "description": "Landing page for Aemula",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "dt",
+  "license": "ISC"
+}

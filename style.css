@@ -34,6 +34,13 @@ nav {
     box-sizing: border-box;
 }
 
+body {
+    position: relative;
+    top: 50px;
+    margin: 0;
+    width: 100%;
+}
+
 .maintitle {
     background-image: url("./public/img/nyc-skyline-grayscale.jpg");
     position: static;

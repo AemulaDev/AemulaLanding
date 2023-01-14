@@ -25,3 +25,33 @@ nav {
     position: absolute;
     right: 10px;
 }
+
+.navlist li {
+    display: inline-block;
+    position: relative;
+    color: white;
+    padding-right: 10px;
+    box-sizing: border-box;
+}
+
+.maintitle {
+    background-image: url("./public/img/nyc-skyline-grayscale.jpg");
+    position: static;
+    display: block;
+    width: 100%;
+    height: 400px;
+    text-align: center;
+}
+
+.maintitle h1 {
+    background-color: black;
+    color: white;
+    font-weight: 300;
+    font-size: 60px;
+    margin-top: 142.25px;
+    margin-bottom: 0; 
+    width: 50%;
+    padding: 20px;
+    box-sizing: border-box;
+    display: inline-block;
+}

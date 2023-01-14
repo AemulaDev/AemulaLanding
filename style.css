@@ -56,3 +56,24 @@ nav {
     box-sizing: border-box;
     display: inline-block;
 }
+
+.about {
+    box-sizing: border-box;
+    height: 100vh;
+    width: 100vw;
+    background-color: orange;
+}
+
+.join {
+    box-sizing: border-box;
+    height: 100vh;
+    width: 100vw;
+    background-color: blue;
+}
+
+.donate {
+    box-sizing: border-box;
+    height: 100vh;
+    width: 100vw;
+    background-color: red;
+}

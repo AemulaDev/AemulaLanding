@@ -122,14 +122,23 @@ body {
 }
 
 .about h1 {
-    margin-left: 25vw;
+    margin-left: 12.5vw;
     margin-top: 10vh;
     color: black;
     font-weight: 300;
     font-size: 48px;
-    margin-bottom: 0px; 
-    width: 75%;
+    margin-bottom: 0px;
     padding: 0px;
+    box-sizing: border-box;
+    display: inline-block;
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+.about h2 {
+    margin-left: 12.5vw;
+    color: black;
+    font-weight: 300;
+    font-size: 32px;
     box-sizing: border-box;
     display: inline-block;
     font-family: 'Julius Sans One', sans-serif;

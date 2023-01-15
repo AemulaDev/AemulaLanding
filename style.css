@@ -145,6 +145,15 @@ body {
     font-family: 'Julius Sans One', sans-serif;
 }
 
+.about p {
+    margin-left: 25vw;
+    margin-top: 10vh;
+    color: black;
+    font-weight: 400;
+    font-size: 24px;
+    box-sizing: border-box;
+}
+
 .join {
     box-sizing: border-box;
     height: 100vh;

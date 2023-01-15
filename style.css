@@ -46,6 +46,16 @@ nav {
     font-family: 'Julius Sans One', sans-serif;
 }
 
+.navtitleLink {
+    font-weight: 600;
+    font-size: 24px;
+    display: inline-block;
+    color: white;
+    position: relative;
+    left: 10px;
+    font-family: 'Julius Sans One', sans-serif;
+}
+
 .navlist {
     list-style: none;
     position: absolute;

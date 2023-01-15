@@ -236,6 +236,8 @@ footer {
 
 .email {
     display: inline-block;
+    margin: auto;
+    width: 25vw;
 }
 
 .email h1 {
@@ -248,6 +250,7 @@ footer {
 
 .donation {
     display: inline-block;
+    right: 0;
 }
 
 .donation h2 {

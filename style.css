@@ -154,6 +154,15 @@ body {
     box-sizing: border-box;
 }
 
+.about li {
+    margin-left: 25vw;
+    margin-top: 5vh;
+    color: black;
+    font-weight: 400;
+    font-size: 24;
+    box-sizing: border-box;
+}
+
 .join {
     box-sizing: border-box;
     height: 100vh;

@@ -186,8 +186,6 @@ ol {
     margin-bottom: 0px;
     margin-right: 0;
     padding: 0px;
-    box-sizing: border-box;
-    display: inline-block;
     font-family: 'Julius Sans One', sans-serif;
     text-decoration: underline;
     text-align: right;
@@ -198,8 +196,6 @@ ol {
     margin-right: 0;
     text-align: right;
     color: white;
-    box-sizing: border-box;
-    display: inline-block;
 }
 
 .pEmail {
@@ -208,8 +204,6 @@ ol {
     padding: 0;
     margin-right: 0;
     color: white;
-    box-sizing: border-box;
-    display: inline-block;
 }
 
 .donate {

@@ -198,6 +198,8 @@ ol {
     margin-right: 0;
     text-align: right;
     color: white;
+    box-sizing: border-box;
+    display: inline-block;
 }
 
 .pEmail {
@@ -206,6 +208,8 @@ ol {
     padding: 0;
     margin-right: 0;
     color: white;
+    box-sizing: border-box;
+    display: inline-block;
 }
 
 .donate {

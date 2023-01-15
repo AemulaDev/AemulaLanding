@@ -41,6 +41,10 @@ nav {
     font-size: 21px;
 }
 
+.navlist a {
+    
+}
+
 body {
     position: relative;
     top: 50px;

@@ -175,11 +175,11 @@ ol {
     box-sizing: border-box;
     height: 100vh;
     width: 100vw;
-    background-color: blue;
+    background-color: black;
 }
 
-.joinSection h1 {
-    color: black;
+.join h1 {
+    color: white;
     font-weight: 300;
     font-size: 75px;
     margin-bottom: 0px;
@@ -191,15 +191,17 @@ ol {
     text-align: right;
 }
 
-.joinSection p {
+.join p {
     padding: 0;
     text-align: right;
+    color: white;
 }
 
 .pEmail {
     font-style: italic;
     text-align: right;
     padding: 0;
+    color: white;
 }
 
 .donate {

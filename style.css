@@ -88,6 +88,11 @@ body {
     box-sizing:border-box;
 }
 
+#maintitleSection {
+    width: 100vw;
+    height: 100vh;
+}
+
 .maintitle h1 {
     color: white;
     font-weight: 300;
@@ -95,7 +100,6 @@ body {
     margin-top: 142.25px;
     margin-bottom: 0; 
     width: 75%;
-    padding: 20px;
     box-sizing: border-box;
     display: inline-block;
     font-family: 'Julius Sans One', sans-serif;

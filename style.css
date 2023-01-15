@@ -123,11 +123,10 @@ body {
 
 .about h1 {
     margin-left: 25vw;
-    padding-top: 10vh;
+    margin-top: 10vh;
     color: black;
     font-weight: 300;
     font-size: 48px;
-    margin-top: 0px;
     margin-bottom: 0px; 
     width: 75%;
     padding: 0px;

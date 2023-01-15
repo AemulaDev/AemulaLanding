@@ -114,37 +114,6 @@ body {
     display: inline-block;
 }
 
-.about {
-    box-sizing: border-box;
-    height: 100vh;
-    width: 100vw;
-    background-color: white;
-}
-
-.about h1 {
-    margin-left: 12.5vw;
-    margin-top: 10vh;
-    color: black;
-    font-weight: 300;
-    font-size: 75px;
-    margin-bottom: 0px;
-    padding: 0px;
-    box-sizing: border-box;
-    display: inline-block;
-    font-family: 'Julius Sans One', sans-serif;
-}
-
-.about h2 {
-    margin-left: 12.5vw;
-    margin-top: 0;
-    margin-bottom: 0;
-    color: black;
-    font-weight: 300;
-    font-size: 50px;
-    box-sizing: border-box;
-    font-family: 'Julius Sans One', sans-serif;
-}
-
 .textbox {
     margin-left: 25vw;
     margin-top: 10vh;
@@ -154,8 +123,40 @@ body {
     box-sizing: border-box;
 }
 
+.about {
+    box-sizing: border-box;
+    height: 100vh;
+    width: 100vw;
+    background-color: white;
+}
+
+.about h1 {
+    margin-left: 0vw;
+    margin-top: 10vh;
+    color: black;
+    font-weight: 300;
+    font-size: 75px;
+    margin-bottom: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    display: inline-block;
+    font-family: 'Julius Sans One', sans-serif;
+    text-decoration: underline;
+}
+
+.about h2 {
+    margin-left: 0vw;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: black;
+    font-weight: 300;
+    font-size: 50px;
+    box-sizing: border-box;
+    font-family: 'Julius Sans One', sans-serif;
+}
+
 .about li {
-    margin-left: 25vw;
+    margin-left: 12.5vw;
     margin-top: 5vh;
     color: black;
     font-weight: 400;

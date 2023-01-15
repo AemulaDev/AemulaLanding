@@ -121,6 +121,19 @@ body {
     background-color: orange;
 }
 
+.about h1 {
+    color: black;
+    font-weight: 300;
+    font-size: 32px;
+    margin-top: 0px;
+    margin-bottom: 0px; 
+    width: 75%;
+    padding: 0px;
+    box-sizing: border-box;
+    display: inline-block;
+    font-family: 'Julius Sans One', sans-serif;
+}
+
 .join {
     box-sizing: border-box;
     height: 100vh;

@@ -255,7 +255,7 @@ footer {
 .donation {
     display: inline-block;
     padding-right: 33px;
-    margin: 0;
+    margin: auto;
     right: 0;
 }
 

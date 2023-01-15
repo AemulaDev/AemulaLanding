@@ -126,7 +126,7 @@ body {
     margin-top: 10vh;
     color: black;
     font-weight: 300;
-    font-size: 48px;
+    font-size: 75px;
     margin-bottom: 0px;
     padding: 0px;
     box-sizing: border-box;
@@ -140,7 +140,7 @@ body {
     margin-bottom: 0;
     color: black;
     font-weight: 300;
-    font-size: 32px;
+    font-size: 50px;
     box-sizing: border-box;
     font-family: 'Julius Sans One', sans-serif;
 }
@@ -159,7 +159,7 @@ body {
     margin-top: 5vh;
     color: black;
     font-weight: 400;
-    font-size: 24;
+    font-size: 24px;
     box-sizing: border-box;
 }
 

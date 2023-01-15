@@ -239,11 +239,12 @@ footer {
 .email h1 {
     font-weight: 600;
     font-size: 24px;
-    display: inline;
     color: white;
     position: relative;
-    left: 10px;
+    margin: auto;
+    width: 50%;
     font-family: 'Julius Sans One', sans-serif;
+    text-align: center;
 }
 
 .donation h2 {

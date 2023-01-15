@@ -225,7 +225,18 @@ footer {
     z-index: 4;
 }
 
-footer h1 {
+.copyright {
+    display: inline-block;
+    position: relative;
+    color: white;
+    left: 33px;
+    padding-right: 33px;
+    box-sizing: border-box;
+    font-weight: 400;
+    font-size: 21px;
+}
+
+.email {
     font-weight: 600;
     font-size: 24px;
     display: inline;
@@ -235,9 +246,10 @@ footer h1 {
     font-family: 'Julius Sans One', sans-serif;
 }
 
-footer h2 {
+.donation {
     display: inline-block;
-    position: relative;
+    position: absolute;
+    right: 33px;
     color: white;
     padding-right: 33px;
     box-sizing: border-box;

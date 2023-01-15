@@ -2,6 +2,10 @@
     font-family: 'Sofia Sans', sans-serif;;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 nav {
     background-color: #585858;
     position: fixed;
@@ -42,7 +46,7 @@ nav {
 }
 
 .navlist a {
-    
+
 }
 
 body {

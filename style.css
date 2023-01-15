@@ -122,6 +122,7 @@ body {
 }
 
 .about h1 {
+    margin-left: 25vw;
     color: black;
     font-weight: 300;
     font-size: 32px;

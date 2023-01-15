@@ -124,6 +124,10 @@ body {
     box-sizing: border-box;
 }
 
+ol {
+    padding: 0;
+}
+
 .about {
     box-sizing: border-box;
     height: 100vh;
@@ -163,6 +167,7 @@ body {
     font-weight: 400;
     font-size: 24px;
     box-sizing: border-box;
+    padding: 0;
 }
 
 .join {

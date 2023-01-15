@@ -224,10 +224,18 @@ footer {
     z-index: 4;
 }
 
+.copyright {
+    display: inline-block;
+}
+
 .copyright h2 {
     color: white;
     font-weight: 400;
     font-size: 21px;
+}
+
+.email {
+    display: inline-block;
 }
 
 .email h1 {
@@ -236,6 +244,10 @@ footer {
     color: white;
     font-family: 'Julius Sans One', sans-serif;
     text-align: center;
+}
+
+.donation {
+    display: inline-block;
 }
 
 .donation h2 {

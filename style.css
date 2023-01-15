@@ -80,7 +80,6 @@ body {
 }
 
 .maintitle {
-    background-image: url("./public/img/nyc-skyline-grayscale.jpg");
     position: static;
     display: block;
     width: 100vw;

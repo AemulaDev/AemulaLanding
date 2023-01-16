@@ -119,6 +119,11 @@ body {
     display: inline-block;
 }
 
+.vanta-canvas {
+    width: 100vw;
+    height: 100vh;
+}
+
 .textbox {
     margin-left: 25vw;
     margin-right: 25vw;

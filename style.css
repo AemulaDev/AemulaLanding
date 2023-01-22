@@ -6,6 +6,7 @@ html {
     scroll-behavior: smooth;
     width: 100vw;
     height: 100vh;
+    display: flex;
 }
 
 a {
@@ -98,12 +99,12 @@ body {
 .maintitle h1 {
     color: white;
     font-weight: 300;
-    font-size: 350px;
+    font-size: 20vw;
     margin-top: 10vh;
     margin-bottom: 0; 
     width: 75vw;
     box-sizing: border-box;
-    display: inline-block;
+    display: inline-flex;
     font-family: 'Julius Sans One', sans-serif;
 }
 
